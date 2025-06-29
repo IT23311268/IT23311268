@@ -6,10 +6,10 @@
 - 🔭 I’m working on academic and personal projects to improve my skills.
 
 ## 📫 How to reach me
-- 📧 Email: your.email@example.com *(replace with your real email or leave out if you prefer privacy)*
-- 💼 LinkedIn: (www.linkedin.com/in/
-oshani-senadhira-b324a72a0
-)
+- 📧 Email: vishmikaoshani4@gmail.com 
+- 💼 LinkedIn: (www.linkedin.com/in/oshani-senadhira-b324a72a0)
+
+
 
 ## 🔠 Pronouns
 - I use ... *( she/her, )*
